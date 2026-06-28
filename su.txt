@@ -1,5 +1,5 @@
 https://jvbuefrexzhbtotmfigw.supabase.co
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp2YnVlZnJleHpoYnRvdG1maWd3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE1MjM2OTcsImV4cCI6MjA5NzA5OTY5N30.b2hs-LORXJt_vUhm9A5yOz0Rct275BidZP29myIs3lg
-shelvesb
-map_elementsb
-map_configb
+shelves
+map_elements
+map_config
